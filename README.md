@@ -26,4 +26,4 @@
 <p>JavaMailSender</p>
 
 <h3>Kakao Api를 이용한 주소 검색 기능</h3>
-<p><a href="https://developers.kakao.com" target="_blank">developers.kakao.com</a> 참고</p>
+<p><a href="https://developers.kakao.com/docs/latest/ko/local/common" target="_blank">developers.kakao.com</a> 참고</p>

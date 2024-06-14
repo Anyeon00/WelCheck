@@ -1,8 +1,8 @@
-개인 저장용 Repository <br>
-Organization : https://github.com/WelCheck <br>
-Notion : https://proud-warlock-b8e.notion.site/Wel-Check-df563da58540475b860783e67e98d5d5
+<h1>개인 저장용 Repository</h1> <br>
+Git Organization : https://github.com/WelCheck <br>
+프로젝트 소개 및 제작 과정 : https://proud-warlock-b8e.notion.site/Wel-Check-df563da58540475b860783e67e98d5d5 (Notion)
 
-현재 진행 중 6월 중 1차 프로토타입 완성 예정
+현재 진행 중 6월 중 1차 프로토타입 완성 예정 <br><br>
 직접 구현한 패키지
 - memberpackage
 - mail

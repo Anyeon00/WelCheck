@@ -1,9 +1,7 @@
 <h1>개인 저장용 Repository</h1>
-    <p><strong>Organization:</strong> <a href="https://github.com/WelCheck" target="_blank">https://github.com/WelCheck</a></p>
-    <p><strong>Notion:</strong> <a href="https://proud-warlock-b8e.notion.site/Wel-Check-df563da58540475b860783e67e98d5d5" target="_blank">https://proud-warlock-b8e.notion.site/Wel-Check-df563da58540475b860783e67e98d5d5</a></p>
-    
-<h2>현재 진행 중</h2>
-    <p>6월 중 1차 프로토타입 완성 예정</p>
+    <p><strong>Git Organization:</strong> <a href="https://github.com/WelCheck" target="_blank">https://github.com/WelCheck</a></p>
+    <p><strong>프로젝트 소개 및 제작 과정</strong> <a href="https://proud-warlock-b8e.notion.site/Wel-Check-df563da58540475b860783e67e98d5d5" target="_blank">https://proud-warlock-b8e.notion.site/Wel-Check-df563da58540475b860783e67e98d5d5</a> (Notion)</p> 
+    * 현재 진행 중 _6월 中 1차 프로토타입 완성 예정
 
 <h2>직접 구현한 패키지</h2>
     <ul>

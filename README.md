@@ -22,5 +22,5 @@ JavaMailSender
 - Kakao Api를 이용한 주소 검색 기능
 developers.kakao.com 참고
 
-자세 개발 과정
+자세 개발 과정 (블로그 기록)
 https://velog.io/@seluo65/series/WelCheck-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8

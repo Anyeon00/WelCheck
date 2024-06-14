@@ -4,7 +4,7 @@
     <p><strong>자세 개발과정 기록</strong> <a href="https://velog.io/@seluo65/series/WelCheck-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" target="_blank">https://velog.io/@seluo65/series/WelCheck-프로젝트</a> (Velog)</p> 
     * 현재 진행 중 _6월 中 1차 프로토타입 완성 예정
 
-<h2담당하여 구현한 패키지</h2>
+<h2>담당하여 구현한 패키지</h2>
     <ul>
         <li>memberpackage</li>
         <li>mail</li>

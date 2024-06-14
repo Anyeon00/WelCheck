@@ -7,8 +7,9 @@
 <h2>담당 패키지</h2>
     <ul>
         <li>memberpackage</li>
-        <li>mail</li>
         <li>security</li>
+        <li>mail</li>
+        <li>kakaoapi</li>
     </ul>
 
 <h2>사용 기술 약술</h2>
